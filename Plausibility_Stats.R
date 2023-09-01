@@ -4,7 +4,7 @@
  library(MuMIn)
  
  ## Set working Directory
- working_directory = "C:/Users/Richy/OneDrive - Duke University/Doctorado/Labs/De Brigard/Projects/CFT_Hippocampus/Paper/Public Data"
+ working_directory = ""
  setwd(working_directory)
  
  ## Read data from experiment 1 and 2
